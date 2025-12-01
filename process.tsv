@@ -1,0 +1,43 @@
+Code	Process category
+PR0000	No processing
+PR0001	Boiling
+PR0002	Breeding
+PR0003	Biological recycling
+PR0004	Chemical recycling
+PR0005	Collecting
+PR0006	Concentrating
+PR0007	Down processing
+PR0008	Dyeing
+PR0009	Embroidery, embellishment
+PR0010	Extrusion
+PR0011	Farming (group)
+PR0012	Finishing
+PR0013	Ginning
+PR0014	Hatching
+PR0015	Knitting
+PR0016	Manufacturing
+PR0017	Mechanical recycling
+PR0018	Molding
+PR0019	Non-woven manufacturing
+PR0020	Packing
+PR0021	Pre-treatment
+PR0022	Preparatory
+PR0023	Printing
+PR0024	Pulp making
+PR0025	Retail sales
+PR0026	Slaughtering
+PR0027	Spinning
+PR0028	Tanning
+PR0029	Top making
+PR0030	Trading
+PR0031	Warehousing, distribution
+PR0032	Washing, laundering
+PR0033	Weaving
+PR0034	Other
+PR0035	Brand
+PR0036	Farming (individual)
+PR0037	Farming (area)
+PR0038	Farming (communal)
+PR0039	Retting
+PR0040	Scouring
+PR9999	Write off / dummy
