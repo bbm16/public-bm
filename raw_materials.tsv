@@ -1,0 +1,62 @@
+Group	Code	Name
+Animal	RM0001	Alpaca
+Animal	RM0008	Angora
+Animal	RM0014	Camel
+Animal	RM0020	Cashmere
+Animal	RM0026	Down
+Animal	RM0033	Feather
+Animal	RM0040	Guanaco
+Animal	RM0046	Lama
+Animal	RM0052	Leather
+Animal	RM0058	Mohair
+Animal	RM0065	Silk
+Animal	RM0071	Vicuna
+Animal	RM0077	Wool
+Animal	RM0084	Yak
+Plant-based	RM0090	Bamboo
+Plant-based	RM0096	Coir
+Plant-based	RM0102	Cotton
+Plant-based	RM0108	Flax (linen)
+Plant-based	RM0114	Hemp
+Plant-based	RM0120	Jute
+Plant-based	RM0126	Kapok
+Plant-based	RM0132	Natural rubber
+Plant-based	RM0138	Nettle
+Plant-based	RM0144	Ramie
+Plant-based	RM0150	Sisal
+Synthetic	RM0156	Acrylic
+Synthetic	RM0268	Acrylonitrile Butadiene Styrene (ABS)
+Synthetic	RM0160	Elastane (spandex)
+Synthetic	RM0164	Elastomultiester (elasterell‑P)
+Synthetic	RM0168	Ethylene vinyl acetate
+Synthetic	RM0172	Latex
+Synthetic	RM0178	Modacrylic
+Synthetic	RM0182	Polyamide (nylon)
+Synthetic	RM0272	Polycarbonate (PC)
+Synthetic	RM0276	Polycarbonate‑acrylonitrile butadiene styrene (PC‑ABS)
+Synthetic	RM0186	Polyester
+Synthetic	RM0190	Polyethylene
+Synthetic	RM0194	Polyethylene terephthalate (PET)
+Synthetic	RM0198	Polylactic acid (PLA)
+Synthetic	RM0202	Polypropylene
+Synthetic	RM0206	Polystyrene
+Synthetic	RM0210	Polyurethane
+Synthetic	RM0214	Protein
+Synthetic	RM0280	Synthetic Rubber
+Synthetic	RM0284	Thermoplastic Elastomer (TPE)
+Synthetic	RM0288	Thermoplastic Rubber (TPR)
+Cellulosic	RM0218	Acetate
+Cellulosic	RM0222	Cupro
+Cellulosic	RM0226	Lyocell
+Cellulosic	RM0230	Modal
+Cellulosic	RM0234	Triacetate
+Cellulosic	RM0238	Viscose (rayon)
+Inorganic	RM0292	Copper
+Inorganic	RM0242	Glass
+Inorganic	RM0296	Iron
+Inorganic	RM0246	Metal
+Inorganic	RM0250	Wood
+Inorganic	RM0300	Zinc
+Misc.	RM0254	Metallic fibers
+Misc.	RM0258	Mixed fibers
+Misc.	RM0262	Other
