@@ -1,0 +1,104 @@
+Code	Product detail	Parent category
+PD0001	Overcoats, jackets, vests	Apparel (Finished Garments)
+PD0002	Suits, suit-pants	Apparel (Finished Garments)
+PD0003	Pants, trousers	Apparel (Finished Garments)
+PD0004	Sweaters, pullovers, cardigans	Apparel (Finished Garments)
+PD0005	Shirts, blouses	Apparel (Finished Garments)
+PD0006	Undergarment, sleepwear, robes	Apparel (Finished Garments)
+PD0007	T-shirts, singlets	Apparel (Finished Garments)
+PD0008	Activewear, sportswear	Apparel (Finished Garments)
+PD0009	Socks, hosiery	Apparel (Finished Garments)
+PD0010	Workwear, uniforms	Apparel (Finished Garments)
+PD0011	Dresses, skirts	Apparel (Finished Garments)
+PD0012	Brassieres, suspenders, garters	Apparel (Finished Garments)
+PD0013	Babies' clothing	Baby Products (Apparel & Accessories)
+PD0014	Babies' accessories	Baby Products (Apparel & Accessories)
+PD0015	Bed linen, bed sheets	Home Textiles
+PD0016	Table linen, tablecloth, napkins	Home Textiles
+PD0017	Towels, kitchen linen, toilet linen	Home Textiles
+PD0018	Food contact textiles	Home Textiles
+PD0019	Blankets, bedspreads, quilts	Home Textiles
+PD0020	Curtains, blinds	Home Textiles
+PD0021	Upholstery	Home Textiles
+PD0022	Carpets, rugs, floor coverings	Home Textiles
+PD0023	Pillows, cushions	Home Textiles
+PD0024	Bags, handbags, totes, pouches	Bags, Luggage & Personal Accessories
+PD0025	Luggage, suitcases	Bags, Luggage & Personal Accessories
+PD0026	Gloves, mittens, hand covering	Bags, Luggage & Personal Accessories
+PD0027	Neckties, bow ties, cravats	Bags, Luggage & Personal Accessories
+PD0028	Scarves, shawls, veils	Bags, Luggage & Personal Accessories
+PD0029	Handkerchiefs	Bags, Luggage & Personal Accessories
+PD0030	Hats, caps, head coverings	Bags, Luggage & Personal Accessories
+PD0031	Belts	Bags, Luggage & Personal Accessories
+PD0032	Topical products	Medical & Personal Care Products
+PD0033	Invasive products	Medical & Personal Care Products
+PD0034	Mattresses	Home Textiles
+PD0035	Shoes	Footwear
+PD0036	Buttons	Hardware & Trims (Garment Components)
+PD0037	Zippers	Hardware & Trims (Garment Components)
+PD0038	Labels, tags	Hardware & Trims (Garment Components)
+PD0039	Trimmings	Hardware & Trims (Garment Components)
+PD0040	Interlining	Hardware & Trims (Garment Components)
+PD0041	Sewing threads	Hardware & Trims (Garment Components)
+PD0042	Tents, sails, camping goods	Outdoor & Technical Textile Goods
+PD0043	Tarpaulins, awnings	Outdoor & Technical Textile Goods
+PD0044	Sleeping bags	Outdoor & Technical Textile Goods
+PD0045	Automotive parts, upholstery	Automotive / Industrial / Construction Textiles
+PD0046	Building materials	Automotive / Industrial / Construction Textiles
+PD0047	Down, feather	Fillings & Insulation Materials
+PD0048	Man-made fiber filling	Fillings & Insulation Materials
+PD0049	Natural fiber filling	Fillings & Insulation Materials
+PD0050	Cardboard, boxes	Packaging Materials
+PD0051	Paper products	Packaging Materials
+PD0052	Envelops, cards	Packaging Materials
+PD0053	Furniture	Home Goods & Furniture
+PD0054	Decorative items	Home Goods & Furniture
+PD0055	Packing sacks, bags	Packaging Materials
+PD0056	Soft toys	Toys
+PD0057	Hard toys	Toys
+PD0058	Knitted fabrics	Fabrics
+PD0059	Woven fabrics	Fabrics
+PD0060	Terry fabrics	Fabrics
+PD0061	Denim fabrics	Fabrics
+PD0062	Non-woven fabrics	Fabrics
+PD0063	Special fabrics	Fabrics
+PD0064	Leather	Leather & Hides
+PD0065	Bonded leather	Leather & Hides
+PD0066	Open-end yarns	Yarns
+PD0067	Carded yarns	Yarns
+PD0068	Super combed yarns	Yarns
+PD0069	Filament	Yarns
+PD0070	Yarns for hand knitting	Yarns
+PD0071	Core-spun yarns	Yarns
+PD0072	Fancy yarns	Yarns
+PD0073	Tops	Fibers & By-products
+PD0074	Lint cotton	Fibers & By-products
+PD0075	Raw fibers	Fibers & By-products
+PD0076	Raw silk	Fibers & By-products
+PD0077	Combed fibers	Fibers & By-products
+PD0078	Scoured fibers	Fibers & By-products
+PD0079	Staple fibers	Fibers & By-products
+PD0080	Mixed fibers	Fibers & By-products
+PD0081	By-products	Fibers & By-products
+PD0082	Comber noil	Fibers & By-products
+PD0083	Cotton linter	Fibers & By-products
+PD0084	Tanned hide	Leather & Hides
+PD0085	Chips (pellets)	Chemicals & Granular Inputs
+PD0086	Flakes	Chemicals & Granular Inputs
+PD0087	Popcorns	Chemicals & Granular Inputs
+PD0088	Seed cotton (raw cotton)	Fibers & By-products
+PD0089	Greasy wool	Fibers & By-products
+PD0090	Silk cocoons	Fibers & By-products
+PD0091	Greasy animal hair	Fibers & By-products
+PD0092	Pulp	Fibers & By-products
+PD0093	Rawhide	Leather & Hides
+PD0094	Reclaimed bottles	Reclaimed / Recycled Materials
+PD0095	Reclaimed fishing nets	Reclaimed / Recycled Materials
+PD0096	Reclaimed textiles	Reclaimed / Recycled Materials
+PD0097	Reclaimed ocean wastes	Reclaimed / Recycled Materials
+PD0098	Reclaimed process wastes	Reclaimed / Recycled Materials
+PD0099	Reclaimed down, feathers	Reclaimed / Recycled Materials
+PD0100	Other	Other
+PD0101	Semi-combed yarns	Yarns
+PD0102	Normally combed yarns	Yarns
+PD0103	Highly combed yarns	Yarns
